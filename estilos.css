@@ -1,0 +1,42 @@
+h1 {
+
+   color: rgb(0, 0, 0);
+   font-family: Courier, monospace;
+   font-size: 18px;
+   text-align: center;
+}
+
+h2 {
+
+     color: rgb(0, 0, 0);
+     font-family: Courier, monospace;
+     font-size: 20px;
+     text-align: center;
+  }
+  
+
+p{
+   color: white;
+   font-family: Courier, monospace;
+   font-size: 18px;
+   text-align: center;
+
+}
+
+
+pre{
+     color: white;
+     font-family: Courier, monospace;
+     font-size: 18px;
+     text-align: center; 
+}
+
+
+body{
+     background-color: rgb(77, 77, 77);
+     
+}
+
+div{
+     text-align: center;
+}
